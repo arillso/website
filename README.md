@@ -8,7 +8,7 @@
 
 For a possible great flexibility and standardization of the roles in the project Arillso, became a guideline developer. (in construction)
 
-[Guidelines](https://guid.arillso.io)
+[Guidelines](https://guide.arillso.io)
 
 ### Skeleton
 
